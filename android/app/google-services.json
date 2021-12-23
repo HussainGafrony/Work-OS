@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575177327565",
+    "project_id": "workos-8a577",
+    "storage_bucket": "workos-8a577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575177327565:android:90c1d38138f2b459c6fa84",
+        "android_client_info": {
+          "package_name": "com.example.workos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575177327565-a9mhk8rb27jh19i5jakq1d71ifuq2ru2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhmG3GSjssORP5l83RJFJBrAGAP2dEfSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575177327565-a9mhk8rb27jh19i5jakq1d71ifuq2ru2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
