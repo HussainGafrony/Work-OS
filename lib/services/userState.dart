@@ -1,8 +1,8 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:workos/login.dart';
-import 'package:workos/tasks.dart';
+import 'package:workos/Screens/auth/login.dart';
+import 'package:workos/Screens/drawer/tasks.dart';
 
 class UserState extends StatefulWidget {
   @override

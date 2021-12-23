@@ -1,11 +1,11 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:workos/addTasks.dart';
-import 'package:workos/profile.dart';
-import 'package:workos/registerWorkes.dart';
-import 'package:workos/tasks.dart';
-import 'package:workos/userState.dart';
+import 'package:workos/Screens/drawer/addTasks.dart';
+import 'package:workos/Screens/drawer/profile.dart';
+import 'package:workos/Screens/drawer/registerWorkes.dart';
+import 'package:workos/Screens/drawer/tasks.dart';
+import 'package:workos/services/userState.dart';
 import 'package:workos/widget/constants.dart';
 
 class DrawerWidget extends StatelessWidget {

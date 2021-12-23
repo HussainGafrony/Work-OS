@@ -1,9 +1,9 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:workos/login.dart';
-import 'package:workos/tasks.dart';
-import 'package:workos/userState.dart';
+import 'package:workos/Screens/auth/login.dart';
+import 'package:workos/Screens/drawer/tasks.dart';
+import 'package:workos/services/userState.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

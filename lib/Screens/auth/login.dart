@@ -3,8 +3,8 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:workos/forgetPassword.dart';
-import 'package:workos/register.dart';
+import 'package:workos/Screens/auth/forgetPassword.dart';
+import 'package:workos/Screens/auth/register.dart';
 import 'package:workos/widget/globalMethod.dart';
 
 class Login extends StatefulWidget {

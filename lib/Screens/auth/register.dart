@@ -17,7 +17,7 @@ import 'package:path/path.dart' as p;
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:workos/widget/constants.dart';
-import 'package:workos/login.dart';
+import 'package:workos/Screens/auth/login.dart';
 import 'package:workos/widget/globalMethod.dart';
 
 class Signup extends StatefulWidget {

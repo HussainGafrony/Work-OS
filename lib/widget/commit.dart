@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:workos/profile.dart';
+import 'package:workos/Screens/drawer/profile.dart';
 
 class CommitWidget extends StatelessWidget {
   final String commentID;

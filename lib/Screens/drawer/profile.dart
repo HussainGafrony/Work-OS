@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:fluttericon/font_awesome5_icons.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:workos/userState.dart';
+import 'package:workos/services/userState.dart';
 import 'package:workos/widget/constants.dart';
 import 'package:workos/widget/drawer.dart';
 import 'package:workos/widget/globalMethod.dart';

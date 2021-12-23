@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'package:workos/profile.dart';
+import 'package:workos/Screens/drawer/profile.dart';
 
 class RegisteredWidget extends StatefulWidget {
   final String userId;
